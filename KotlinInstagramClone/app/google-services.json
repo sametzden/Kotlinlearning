@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798035970838",
+    "project_id": "kotlininstaclone-f39a6",
+    "storage_bucket": "kotlininstaclone-f39a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798035970838:android:1bfe01a7f0086170575e37",
+        "android_client_info": {
+          "package_name": "com.samet.kotlininstagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBchJWo2vzUctagQc8cm0LIenEF9ZISZnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185755778204",
+    "project_id": "instaclone-a79fe",
+    "storage_bucket": "instaclone-a79fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185755778204:android:72e2ce62821d48cd3b8159",
+        "android_client_info": {
+          "package_name": "com.samet.instagramclonejava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNmVxNOuFn07BIIBaUfncHhLNwzKkOrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
